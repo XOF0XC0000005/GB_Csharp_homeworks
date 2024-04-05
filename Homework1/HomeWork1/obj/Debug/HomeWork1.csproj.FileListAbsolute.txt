@@ -1,0 +1,7 @@
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\bin\Debug\HomeWork1.exe
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\bin\Debug\HomeWork1.pdb
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\obj\Debug\HomeWork1.exe
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\Homework1\HomeWork1\obj\Debug\HomeWork1.pdb
