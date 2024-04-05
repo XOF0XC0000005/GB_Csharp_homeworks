@@ -12,7 +12,7 @@ namespace HomeWork1
                 return;
             }
 
-            if (int.TryParse(args[0], out int firstNum) && int.TryParse(args[2], out int secondNum))
+            if (double.TryParse(args[0], out double firstNum) && double.TryParse(args[2], out double secondNum))
             {
                 switch (args[1])
                 {
