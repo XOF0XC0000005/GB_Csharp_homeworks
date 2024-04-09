@@ -8,7 +8,7 @@
                 { 
                     { 7, 3, 2 }, 
                     { 4, 9, 6 }, 
-                    { 1, 8, 4 },
+                    { 1, 8, 5 },
                 };
             int[] oneDimensionalArray = new int[twoDimensionalArray.Length];;
             int counter = 0;
